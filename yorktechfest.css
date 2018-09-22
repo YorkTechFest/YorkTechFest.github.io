@@ -246,14 +246,14 @@ section.success p {
     color: #000000
 }
 section.our_meetups {
-    background: #4800FF;
+    background: #2C3E50;
     color: #fff
 }
 section.our_meetups h2 {
     color: #fff
 }
 section.blog_index {
-    background: #4800FF;
+    background: #2C3E50;
     color: #fff
 }
 section.blog_index h2 {
@@ -261,17 +261,17 @@ section.blog_index h2 {
 }
 
 section.donate {
-    background: #4800FF;
+    background: #2C3E50;
     color: #fff
 }
 
 section.counters_up {
-    background: #4800FF;
+    background: #2C3E50;
     color: #fff
 }
 section.twitter_feed {
     background: #FFF;
-    color: #4800FF
+    color: #2C3E50
 }
 section.twitter_feed h2 {
     color: #000000
