@@ -101,28 +101,6 @@ hr.star-events-even:after {
     color: #4800FF
 }
 
-
-
-.our_meetups_detail {
-    background: #4800FF;
-    color: #FFF
-}
-
-#meetups .counters-up-item {
-    margin: 0 0 15px;
-    right: 0;
-    max-width: 400px;
-    margin: 0 auto;
-    color: #FFFFFF;
-    font-size: 20px;  
-}
-#meetups .counters-up-item .counter {
-    color: #FFD800;
-    font-size: 96px;  
-}
-
-
-
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-brand.active,
 .navbar-custom .navbar-brand:active,
@@ -245,46 +223,13 @@ section.success h2 {
 section.success p {
     color: #000000
 }
-section.our_meetups {
+section.the_speakers {
     background: #2C3E50;
     color: #fff
 }
-section.our_meetups h2 {
-    color: #fff
-}
-section.blog_index {
+section.who_are_we {
     background: #2C3E50;
     color: #fff
-}
-section.blog_index h2 {
-    color: #fff
-}
-
-section.donate {
-    background: #2C3E50;
-    color: #fff
-}
-
-section.counters_up {
-    background: #2C3E50;
-    color: #fff
-}
-section.twitter_feed {
-    background: #FFF;
-    color: #2C3E50
-}
-section.twitter_feed h2 {
-    color: #000000
-}
-section.events-even {
-    padding: 0 0;
-    background: #ADD8E6;
-    color: #000000;
-}
-section.events-odd {
-    padding: 0 0;
-    background: #FFF;
-    color: #000000;
 }
 
 @media (max-width: 767px) {
@@ -390,7 +335,7 @@ section.events-odd {
 
 
 
-section.our_posts a {
+section.the_tickets a {
     color: #000000;
     font-size: 26px;
 }
@@ -816,4 +761,8 @@ fieldset[disabled] .btn-success:hover {
 
 .heading-container {
     width : 100% !important ;
+}
+
+.img-speaker {
+    border-radius: 50%;
 }
