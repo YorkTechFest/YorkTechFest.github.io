@@ -227,6 +227,10 @@ section.the_speakers {
     background: #2C3E50;
     color: #fff
 }
+section.the_partners {
+    background: #FFFFFF;
+    color: #fff
+}
 section.who_are_we {
     background: #2C3E50;
     color: #fff
@@ -756,7 +760,7 @@ fieldset[disabled] .btn-success:hover {
 
 .name {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #fad609;
+    color: #FFFFFF;
 }
 
 .heading-container {
