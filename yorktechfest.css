@@ -225,7 +225,8 @@ section.success p {
 }
 section.the_speakers {
     background: #2C3E50;
-    color: #fff
+    color: #fff;
+    text-align: center;
 }
 section.the_partners {
     background: #FFFFFF;
@@ -769,4 +770,11 @@ fieldset[disabled] .btn-success:hover {
 
 .img-speaker {
     border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+#speakers a
+{
+    color: #FFFFFF;
 }
