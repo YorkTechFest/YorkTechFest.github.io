@@ -86,23 +86,10 @@ hr.star-primary {
     border-color: #fff;
 }
 hr.star-primary:after {
-    background-color: #4800FF;
+    background-color: #2C3E50;
     color: #fff
 }
-hr.star-events-odd {
-    border-color: #FFD800
-}
-hr.star-events-odd:after {
-    background-color: #ADD8E6;
-    color: #FFD800
-}
-hr.star-events-even {
-    border-color: #4800FF
-}
-hr.star-events-even:after {
-    background-color: #ADD8E6;
-    color: #4800FF
-}
+
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-brand.active,
