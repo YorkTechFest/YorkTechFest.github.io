@@ -710,7 +710,16 @@ fieldset[disabled] .btn-success:hover {
     margin: 4px 2px;
 }
 
-.button1 {border-radius: 4px;}
+.button1 {
+    background-color: #FFD800;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
 
 .img-heading {
     width: 100%;
