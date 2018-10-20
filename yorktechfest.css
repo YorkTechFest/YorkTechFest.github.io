@@ -728,6 +728,7 @@ fieldset[disabled] .btn-success:hover {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 50%;
+    filter:opacity(100%);
 }
 
 .name {
