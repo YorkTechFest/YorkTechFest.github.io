@@ -210,6 +210,11 @@ section.the_speakers {
     color: #fff;
     text-align: center;
 }
+section.the_programme {
+    background: #FFF;
+    color: #000;
+    text-align: center;
+}
 section.the_partners {
     background: #FFFFFF;
     color: #fff
@@ -303,6 +308,14 @@ section.the_organisers {
 }
 
 section.the_tickets a {
+    color: #000000;
+    font-size: 26px;
+}
+section.the_speakers a {
+    color: #000000;
+    font-size: 26px;
+}
+section.the_programme a {
     color: #000000;
     font-size: 26px;
 }
@@ -724,7 +737,7 @@ fieldset[disabled] .btn-success:hover {
 .img-heading {
     width: 100%;
     /* height: 800px; */
-    background-image: url("york.jpg");  /* https://commons.wikimedia.org/wiki/File:York_night.JPG */
+    background-image: url("img/york_explore_building.jpg");  /* https://commons.wikimedia.org/wiki/File:York_night.JPG */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 50%;
@@ -734,6 +747,11 @@ fieldset[disabled] .btn-success:hover {
 .name {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #FFFFFF;
+}
+
+.name_blue {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #4800FF;
 }
 
 .heading-container {
@@ -750,7 +768,7 @@ fieldset[disabled] .btn-success:hover {
 
 #speakers a
 {
-    color: #FFFFFF;
+    color: #000000;
 }
 
 
